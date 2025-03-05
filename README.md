@@ -1,19 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Tommy Wu!
 
-<!--
-**Tommy-MrWu/Tommy-MrWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Network Engineering student at Xi'an University of Posts and Telecommunications.**  
+💻 Passionate about **C, C++, and algorithmic problem-solving.**  
+📚 Currently learning **Qt and competitive programming.**  
+🎯 Aiming to master **data structures, algorithms, and system design.**  
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yang-tian-hub&show_icons=true&theme=tokyonight" /> </div>
+---
 
+## 🛠 Tech Stack:
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy-MrWu&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-MrWu&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tommy-MrWu&theme=radical)  
+
+---
+
+## 🚀 Latest Projects:
+- 🎬 **Cinema Management System** (C language + Qt integration)
+- 🔢 **Sorting Algorithm Visualizer** (C++)
+- 🏆 **LeetCode Solutions** (Solving algorithm problems daily)
+
+---
+
+## 🌱 Learning & Exploring:
+- **Advanced Data Structures & Algorithms**
+- **Qt Framework for GUI Development**
+- **System Programming & Networking**
+
+---
+
+## 📫 Connect with Me:
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Tommy-MrWu)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/)
+[![CSDN](https://img.shields.io/badge/-CSDN-DC382D?style=flat-square&logo=csdn)](https://blog.csdn.net/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+> 🏆 *Striving for excellence in coding and problem-solving!* 🚀
