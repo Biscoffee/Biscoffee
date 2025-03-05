@@ -1,11 +1,4 @@
-# 👋 Hi, I'm Tommy Wu!
-
-🚀 **Network Engineering student at Xi'an University of Posts and Telecommunications.**  
-💻 Passionate about **C, C++, and algorithmic problem-solving.**  
-📚 Currently learning **Qt and competitive programming.**  
-🎯 Aiming to master **data structures, algorithms, and system design.**  
-
----
+# 👋 Hi, I'm Biscoffee!
 
 ## 🛠 Tech Stack:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
