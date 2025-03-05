@@ -19,9 +19,9 @@
 
 
 ## 🌱 Learning & Exploring:
-- **Advanced Data Structures & Algorithms**
-- **Qt Framework for GUI Development**
-- **System Programming & Networking**
+- 🚀 **Advanced Data Structures & Algorithms**
+- 💡 **Qt Framework for GUI Development**
+- 🌐 **System Programming & Networking**
 
 ---
 
