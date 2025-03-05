@@ -33,4 +33,4 @@
 
 ---
 
-> 🏆 *Striving for excellence in coding and problem-solving!* 🚀
+> 🏆 *Keep dream   work hard   stay focus* 🚀
