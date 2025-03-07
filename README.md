@@ -19,16 +19,20 @@
 
 ## 🌱 My Activity:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biscoffee&theme=xcode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biscoffee&theme=xcode&hide_border=true" />
 </div>
 
 ---
-
 
 ## 🌱 Learning & Exploring:
 - 🚀 **Advanced Data Structures & Algorithms**
 - 💡 **Qt Framework for GUI Development**
 - 🌐 **System Programming & Networking**
+
+---
+
+## 📅 Last Updated:
+![Date](https://img.shields.io/badge/Date-<%= date.today() %>-blue)
 
 ---
 
@@ -41,3 +45,13 @@
 ---
 
 > 🏆 *Keep dream   work hard   stay focus* 🚀
+
+---
+
+### **Daily Quote:**
+> **"Code is like humor. When you have to explain it, it’s bad."** — Cory House
+
+---
+
+### **GitHub Snake Game Contribution Graph:**
+![Snake animation](https://github.com/Biscoffee/Biscoffee/blob/output/github-contribution-grid-snake.svg)
