@@ -10,8 +10,14 @@
 
 ---
 
+### **Daily Quote:**
+> **"Code is like humor. When you have to explain it, it’s bad."** — Cory House
+
+---
+
+
 ## 📊 GitHub Stats:
-![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy-MrWu&show_icons=true&theme=tokyonight)  
+![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biscoffee&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-MrWu&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tommy-MrWu&theme=radical)  
 
@@ -31,10 +37,6 @@
 
 ---
 
-## 📅 Last Updated:
-![Date](https://img.shields.io/badge/Date-<%= date.today() %>-blue)
-
----
 
 ## 📫 Connect with Me:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Biscoffee)
@@ -47,11 +49,3 @@
 > 🏆 *Keep dream   work hard   stay focus* 🚀
 
 ---
-
-### **Daily Quote:**
-> **"Code is like humor. When you have to explain it, it’s bad."** — Cory House
-
----
-
-### **GitHub Snake Game Contribution Graph:**
-![Snake animation](https://github.com/Biscoffee/Biscoffee/blob/output/github-contribution-grid-snake.svg)
