@@ -24,9 +24,8 @@
 ---
 
 🔥 Visitors:
-<div align="center">
-  ![Visitors](https://profile-counter.glitch.me/Biscoffee/count.svg)
-</div>  
+![Visitors](https://profile-counter.glitch.me/Biscoffee/count.svg)
+  
 
 
 
