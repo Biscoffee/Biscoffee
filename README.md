@@ -1,14 +1,3 @@
-# 👋 Hi, I'm Biscoffee!
-
-## 🛠 Tech Stack:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-
----
 
 ### **Daily Quote:**
 > **"Code is like humor. When you have to explain it, it’s bad."** — Cory House
