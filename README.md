@@ -19,12 +19,6 @@
 
 ---
 
-## 🌱 Learning & Exploring:
-- 🚀 **Advanced Data Structures & Algorithms**
-- 💡 **Qt Framework for GUI Development**
-- 🌐 **System Programming & Networking**
-
----
 
 
 ## 📫 Connect with Me:
@@ -35,6 +29,3 @@
 
 ---
 
-> 🏆 *Keep dream   work hard   stay focus* 🚀
-
----
