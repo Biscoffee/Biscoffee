@@ -19,7 +19,7 @@
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Biscoffee&left_color=green&right_color=red)
+![Taot's GitHub stats](https://github-immortality.vercel.app/api?username=Biscoffee)
 
 ---
 
