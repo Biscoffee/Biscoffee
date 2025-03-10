@@ -24,7 +24,8 @@
 ---
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?username=Biscoffee)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Biscoffee&left_color=green&right_color=red)
+
 
 
 ----
