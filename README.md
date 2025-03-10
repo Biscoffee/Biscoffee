@@ -7,8 +7,8 @@
 
 ## 📊 GitHub Stats:
 ![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biscoffee&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-MrWu&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tommy-MrWu&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biscoffee&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Biscoffee&theme=radical)  
 
 ---
 
