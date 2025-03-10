@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biscoffee</h1>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biscoffee&" alt="biscoffee" /></p>
 
 ### **💡 Daily Quote**  
 > **"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
