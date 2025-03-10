@@ -25,7 +25,7 @@
 
 🔥 Visitors:
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Biscoffee&left_color=green&right_color=red" />
+  ![Visitors](https://profile-counter.glitch.me/Biscoffee/count.svg)
 </div>  
 
 
