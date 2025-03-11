@@ -26,16 +26,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biscoffee&theme=xcode&hide_border=true" />
 </div>  
 
-
----
-## 📊 GitHub Stats:
-  
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Biscoffee&theme=radical)  
- 
- ---
-
-## 🟩 GitHub Contributions  
-![Biscoffee's Contribution Snake](https://github.com/Biscoffee/Biscoffee/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Biscoffee&theme=radical)  
 
 ---
 
