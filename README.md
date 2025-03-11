@@ -27,6 +27,11 @@
 </div>  
 
 ---
+## 🟩 GitHub Contributions  
+![Biscoffee's Contribution Snake](https://github.com/Biscoffee/Biscoffee/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 
 ## 🔥 Visitors  
 <div align="center">
