@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biscoffee</h1>
 
-![灰原哀](https://i.imgur.com/vjXsS1b.jpeg)
+[![temp-Images-BADWG.avif](https://i.postimg.cc/x1vbB5wJ/temp-Images-BADWG.avif)](https://postimg.cc/0zNQwY2P)
 
 ### **💡 Daily Quote**  
 > **"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
