@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🫡 , It's Tommy_Wu here </h1>
 
-
+<img src="https://i.postimg.cc/abc123/new-image.png" width="100%" />
 ### **💡 Daily Quote**  
 > **"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
 
