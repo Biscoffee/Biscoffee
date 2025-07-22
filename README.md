@@ -1,13 +1,5 @@
 <h1 align="center">Hi 🫡 , It's Tommy_Wu here </h1>
 
-## 📚 LeetCode Stats  
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/wu-tong-1ms?ext=cn&theme=dark&font=Karla" />
-</div>
-
-<img src="https://i.postimg.cc/9M1H5N0f/temp-Imagej7-Pqb-C.avif" width="100%" />
-
-
 
 ### **💡 Daily Quote**  
 > **"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
