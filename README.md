@@ -1,7 +1,4 @@
-<h1 align="center">Hi 🫡 , It's Tommy_Wu here </h1>
-
-<img src="https://i.postimg.cc/9M1H5N0f/temp-Imagej7-Pqb-C.avif" width="100%" />
-
+<a href='https://postimg.cc/SJcKsqCn' target='_blank'><img src='https://i.postimg.cc/02BKVyN0/dimitris-kiriakakis-sg-TFJVQQgv-U-unsplash-2.jpg' border='0' alt='dimitris-kiriakakis-sg-TFJVQQgv-U-unsplash-2'/></a><br />
 ### **💡 Daily Quote**  
 > **"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
 
